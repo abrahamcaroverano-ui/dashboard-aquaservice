@@ -1,0 +1,1045 @@
+{
+  "bajas": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "incidencias_promedio": [
+    {
+      "Incidencias": "Almacén"
+    },
+    {
+      "Incidencias": null
+    },
+    {
+      "Incidencias": "Cadiz"
+    },
+    {
+      "Incidencias": "Chiclana"
+    }
+  ],
+  "incidencias_rutas": [
+    {
+      "Delegación": "126-CHICLANA",
+      "Ruta": "DQS",
+      "Nombre ruta": "DQS",
+      "Albaranes": 641,
+      "Incidencias": 26,
+      "% incidencia": 0.0405616224648986
+    },
+    {
+      "Delegación": "126-CHICLANA",
+      "Ruta": "2628",
+      "Nombre ruta": "2628",
+      "Albaranes": 1118,
+      "Incidencias": 38,
+      "% incidencia": 0.03398926654740608
+    },
+    {
+      "Delegación": "126-CHICLANA",
+      "Ruta": "2631",
+      "Nombre ruta": "2631",
+      "Albaranes": 795,
+      "Incidencias": 22,
+      "% incidencia": 0.027672955974842768
+    },
+    {
+      "Delegación": "126-CHICLANA",
+      "Ruta": "PKN",
+      "Nombre ruta": "PKN",
+      "Albaranes": 1007,
+      "Incidencias": 19,
+      "% incidencia": 0.018867924528301886
+    },
+    {
+      "Delegación": "126-CHICLANA",
+      "Ruta": "2632",
+      "Nombre ruta": "2632",
+      "Albaranes": 1309,
+      "Incidencias": 24,
+      "% incidencia": 0.01833460656990069
+    },
+    {
+      "Delegación": "126-CHICLANA",
+      "Ruta": "HFL",
+      "Nombre ruta": "HFL",
+      "Albaranes": 725,
+      "Incidencias": 12,
+      "% incidencia": 0.016551724137931035
+    },
+    {
+      "Delegación": "126-CHICLANA",
+      "Ruta": "ZPX",
+      "Nombre ruta": "ZPX",
+      "Albaranes": 797,
+      "Incidencias": 13,
+      "% incidencia": 0.01631116687578419
+    },
+    {
+      "Delegación": "126-CHICLANA",
+      "Ruta": "2630",
+      "Nombre ruta": "2630",
+      "Albaranes": 669,
+      "Incidencias": 9,
+      "% incidencia": 0.013452914798206279
+    },
+    {
+      "Delegación": "126-CHICLANA",
+      "Ruta": "2627",
+      "Nombre ruta": "2627",
+      "Albaranes": 1460,
+      "Incidencias": 18,
+      "% incidencia": 0.012328767123287671
+    },
+    {
+      "Delegación": "126-CHICLANA",
+      "Ruta": "UJC",
+      "Nombre ruta": "UJC",
+      "Albaranes": 530,
+      "Incidencias": 6,
+      "% incidencia": 0.011320754716981131
+    },
+    {
+      "Delegación": "126-CHICLANA",
+      "Ruta": "MXX",
+      "Nombre ruta": "MXX",
+      "Albaranes": 994,
+      "Incidencias": 6,
+      "% incidencia": 0.006036217303822937
+    },
+    {
+      "Delegación": "126-CHICLANA",
+      "Ruta": "JXZ",
+      "Nombre ruta": "JXZ",
+      "Albaranes": 1089,
+      "Incidencias": 6,
+      "% incidencia": 0.005509641873278237
+    }
+  ],
+  "avisos_48h": [
+    {
+      "Delegación": "Cádiz",
+      "Total general": null,
+      "0 días": null,
+      "% 0 días": "0",
+      "24 horas": null,
+      "% 24 horas": "0",
+      "48 horas": null,
+      "% 48 horas": "0",
+      "+ 48 horas": null
+    },
+    {
+      "Delegación": "Cádiz-Algeciras",
+      "Total general": null,
+      "0 días": null,
+      "% 0 días": "0",
+      "24 horas": null,
+      "% 24 horas": "0",
+      "48 horas": null,
+      "% 48 horas": "0",
+      "+ 48 horas": null
+    },
+    {
+      "Delegación": "Chiclana",
+      "Total general": 31,
+      "0 días": 1,
+      "% 0 días": 3.225806451612903,
+      "24 horas": 30,
+      "% 24 horas": 96.7741935483871,
+      "48 horas": null,
+      "% 48 horas": 0,
+      "+ 48 horas": null
+    },
+    {
+      "Delegación": "TOTAL",
+      "Total general": 31,
+      "0 días": 1,
+      "% 0 días": 3.225806451612903,
+      "24 horas": 30,
+      "% 24 horas": 96.7741935483871,
+      "48 horas": 0,
+      "% 48 horas": 0,
+      "+ 48 horas": 0
+    }
+  ],
+  "nodel_avisos": [
+    {
+      "Almacen": "Cadiz",
+      "Avisos +48h": null,
+      "% Avisos +48h": null,
+      "% Avisos + 48h LY": 0.0395,
+      "Avisos Tot.": 37,
+      "Avisos Ent.": 34,
+      "Avisos Nodel": 3,
+      "% Avisos Ent./Vis.": 0.1145,
+      "% Ent./Vis. LY": 0.129
+    },
+    {
+      "Almacen": "Chiclana",
+      "Avisos +48h": null,
+      "% Avisos +48h": null,
+      "% Avisos + 48h LY": null,
+      "Avisos Tot.": 31,
+      "Avisos Ent.": 28,
+      "Avisos Nodel": 3,
+      "% Avisos Ent./Vis.": 0.1148,
+      "% Ent./Vis. LY": 0.1142
+    }
+  ],
+  "higienes": [
+    {
+      "Director Area": "Daniel Santos",
+      "TOTAL COOLERS +15 MESES": 27279,
+      "TOTAL HIGIENES PENDIENTES > 15 MESES": 340,
+      "% COOLER PENDIENTES HIGIENIZAR": 0.012463799992668353,
+      "TOTAL COOLERS > 15 MESES EMPRESA": 8453,
+      "HIGIENES PENDIENTES > 15 MESES EMPRESA": 181,
+      "% COOLER PENDIENTES HIGIENIZAR EMPRESA": 0.02141251626641429,
+      "TOTAL COOLERS > 15 MESES HOGAR": 18826,
+      "HIGIENES PENDIENTES > 15 MESES HOGAR": 159,
+      "% COOLER PENDIENTE HIGIENIZAR HOGAR": 0.008445766493147775
+    },
+    {
+      "Director Area": "CHICLANA",
+      "TOTAL COOLERS +15 MESES": 12481,
+      "TOTAL HIGIENES PENDIENTES > 15 MESES": 133,
+      "% COOLER PENDIENTES HIGIENIZAR": 0.01065619742007852,
+      "TOTAL COOLERS > 15 MESES EMPRESA": 3667,
+      "HIGIENES PENDIENTES > 15 MESES EMPRESA": 75,
+      "% COOLER PENDIENTES HIGIENIZAR EMPRESA": 0.020452686119443685,
+      "TOTAL COOLERS > 15 MESES HOGAR": 8814,
+      "HIGIENES PENDIENTES > 15 MESES HOGAR": 58,
+      "% COOLER PENDIENTE HIGIENIZAR HOGAR": 0.006580440208758793
+    },
+    {
+      "Director Area": "CÁDIZ",
+      "TOTAL COOLERS +15 MESES": 14798,
+      "TOTAL HIGIENES PENDIENTES > 15 MESES": 207,
+      "% COOLER PENDIENTES HIGIENIZAR": 0.013988376807676712,
+      "TOTAL COOLERS > 15 MESES EMPRESA": 4786,
+      "HIGIENES PENDIENTES > 15 MESES EMPRESA": 106,
+      "% COOLER PENDIENTES HIGIENIZAR EMPRESA": 0.0221479314667781,
+      "TOTAL COOLERS > 15 MESES HOGAR": 10012,
+      "HIGIENES PENDIENTES > 15 MESES HOGAR": 101,
+      "% COOLER PENDIENTE HIGIENIZAR HOGAR": 0.010087894526568119
+    }
+  ],
+  "descuadres": [
+    {
+      "0 M Almacenes.Responsable_Logistica": "      ⊞ CHICLANA",
+      "Personal": 16,
+      "Dif. Teo vs Real": -319,
+      "Descuadre ABS": 403,
+      "Movimientos": 23792,
+      "% Descuadres": 0.0169
+    },
+    {
+      "0 M Almacenes.Responsable_Logistica": "      ⊞ CÁDIZ",
+      "Personal": 23,
+      "Dif. Teo vs Real": -26,
+      "Descuadre ABS": 46,
+      "Movimientos": 30524,
+      "% Descuadres": 0.0015
+    },
+    {
+      "0 M Almacenes.Responsable_Logistica": "Total",
+      "Personal": 39,
+      "Dif. Teo vs Real": -345,
+      "Descuadre ABS": 449,
+      "Movimientos": 54316,
+      "% Descuadres": 0.0123
+    }
+  ],
+  "nodel_diario": [
+    {
+      "Fecha": 46174,
+      "Albaranes diarios": 467,
+      "Nodel / Reagendados": 10,
+      "% Total": 2.1413276231263385
+    },
+    {
+      "Fecha": 46175,
+      "Albaranes diarios": 397,
+      "Nodel / Reagendados": 28,
+      "% Total": 7.052896725440806
+    },
+    {
+      "Fecha": 46176,
+      "Albaranes diarios": 466,
+      "Nodel / Reagendados": 13,
+      "% Total": 2.7896995708154506
+    },
+    {
+      "Fecha": 46177,
+      "Albaranes diarios": 483,
+      "Nodel / Reagendados": 20,
+      "% Total": 4.140786749482402
+    },
+    {
+      "Fecha": 46178,
+      "Albaranes diarios": 521,
+      "Nodel / Reagendados": 22,
+      "% Total": 4.222648752399232
+    },
+    {
+      "Fecha": 46181,
+      "Albaranes diarios": 527,
+      "Nodel / Reagendados": 25,
+      "% Total": 4.743833017077799
+    },
+    {
+      "Fecha": 46182,
+      "Albaranes diarios": 521,
+      "Nodel / Reagendados": 37,
+      "% Total": 7.1017274472168905
+    },
+    {
+      "Fecha": 46183,
+      "Albaranes diarios": 513,
+      "Nodel / Reagendados": 23,
+      "% Total": 4.483430799220273
+    },
+    {
+      "Fecha": 46184,
+      "Albaranes diarios": 498,
+      "Nodel / Reagendados": 24,
+      "% Total": 4.819277108433735
+    },
+    {
+      "Fecha": 46188,
+      "Albaranes diarios": 555,
+      "Nodel / Reagendados": 29,
+      "% Total": 5.225225225225225
+    },
+    {
+      "Fecha": 46189,
+      "Albaranes diarios": 504,
+      "Nodel / Reagendados": 23,
+      "% Total": 4.563492063492063
+    },
+    {
+      "Fecha": 46190,
+      "Albaranes diarios": 537,
+      "Nodel / Reagendados": 24,
+      "% Total": 4.4692737430167595
+    }
+  ],
+  "proyeccion_raw": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      46174,
+      46175,
+      46176,
+      46177,
+      46178,
+      46181,
+      46182,
+      46183,
+      46184,
+      46188,
+      46189,
+      46190,
+      46191,
+      46192,
+      46195,
+      46196,
+      46197,
+      46198,
+      46199,
+      46203,
+      46203,
+      null
+    ],
+    [
+      "Alm",
+      "Deleg Report",
+      "% proyeccion",
+      "% proyeccion",
+      "% proyeccion",
+      "% proyeccion",
+      "% proyeccion",
+      "% proyeccion",
+      "% proyeccion",
+      "% proyeccion",
+      "% proyeccion",
+      "% proyeccion",
+      "% proyeccion",
+      "% proyeccion",
+      "% proyeccion",
+      "% proyeccion",
+      "% proyeccion",
+      "% proyeccion",
+      "% proyeccion",
+      "% proyeccion",
+      "% proyeccion",
+      "% proyeccion",
+      "% proyeccion",
+      "% proyeccion"
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      113,
+      "CADIZ",
+      0.87,
+      0.888,
+      0.859,
+      0.809,
+      0.801,
+      0.902,
+      0.925,
+      1.044,
+      1.068,
+      1.059,
+      1.042,
+      1.021,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      126,
+      "CHICLANA",
+      0.8,
+      0.745,
+      0.832,
+      0.848,
+      0.797,
+      0.7801,
+      0.844,
+      0.918,
+      0.917,
+      0.825,
+      0.862,
+      0.873,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      0.84,
+      0.817,
+      0.845,
+      0.829,
+      0.799,
+      0.843,
+      0.885,
+      0.982,
+      0.985,
+      0.944,
+      0.954,
+      0.92,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "chiclana_kits_raw": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "Delegacion",
+      null,
+      46188,
+      46189,
+      46190,
+      46191,
+      46192
+    ],
+    [
+      null,
+      null,
+      null,
+      "% Proyeccion",
+      "% Proyeccion",
+      "% Proyeccion",
+      "% Proyeccion",
+      "% Proyeccion"
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "126 Chiclana",
+      "Kits entregar diario",
+      59,
+      72,
+      70,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      "Kits entregados diarios",
+      51,
+      50,
+      51,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      "%  TOTAL",
+      86.44067796610169,
+      69.44444444444444,
+      72.85714285714286,
+      "0",
+      "0"
+    ]
+  ],
+  "calidad_raw": [
+    [
+      null,
+      "Reporte Indice de Calidad",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "CHICLANA",
+      "Lunes 15",
+      "Martes 16",
+      "Miercoles 17",
+      "Jueves 18",
+      "Viernes 19",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "Albaranes",
+      555,
+      504,
+      537,
+      null,
+      null,
+      null,
+      null,
+      null,
+      1596
+    ],
+    [
+      null,
+      "Reagendadas",
+      17,
+      1,
+      1,
+      null,
+      null,
+      null,
+      null,
+      null,
+      19
+    ],
+    [
+      null,
+      "% Calidad",
+      0.03063063063063063,
+      0.001984126984126984,
+      0.00186219739292365,
+      "0",
+      "0",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "Avisos",
+      34,
+      23,
+      31,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "Avisos + 48H",
+      0,
+      0,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "% Calidad",
+      0,
+      0,
+      0,
+      "0",
+      "0",
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "objetivos_delegaciones": [
+    {
+      "REAL CAFÉ SEMANA 1": 0.7015,
+      "REAL CAFÉ SEMANA 2": 0.7113,
+      "REAL CAFÉ SEMANA 3": 0.7153,
+      "REAL CAFÉ SEMANA 4": null,
+      "INICIO CAFE MES": 0.6968,
+      "OBJETIVO CAFÉ": 0.9,
+      "CRECIMIENTO SEMANA 1": 0.0047000000000000375,
+      "CRECIMIENTO SEMANA 2": 0.009800000000000031,
+      "CRECIMIENTO SEMANA 3": 0.0040000000000000036,
+      "CRECIMIENTO SEMANA 4": -0.7153,
+      "DFERENCIA CAFÉ SEMANA 1": -0.1985,
+      "DFERENCIA CAFÉ SEMANA 2": -0.18869999999999998,
+      "DFERENCIA CAFÉ SEMANA 3": -0.18469999999999998,
+      "DFERENCIA CAFÉ SEMANA 4": -0.9
+    },
+    {
+      "REAL CAFÉ SEMANA 1": 0.9229,
+      "REAL CAFÉ SEMANA 2": 0.9315,
+      "REAL CAFÉ SEMANA 3": 0.9359,
+      "REAL CAFÉ SEMANA 4": null,
+      "INICIO CAFE MES": 0.9064,
+      "OBJETIVO CAFÉ": 0.9,
+      "CRECIMIENTO SEMANA 1": 0.01650000000000007,
+      "CRECIMIENTO SEMANA 2": 0.008599999999999941,
+      "CRECIMIENTO SEMANA 3": 0.0043999999999999595,
+      "CRECIMIENTO SEMANA 4": -0.9359,
+      "DFERENCIA CAFÉ SEMANA 1": 0.02290000000000003,
+      "DFERENCIA CAFÉ SEMANA 2": 0.03149999999999997,
+      "DFERENCIA CAFÉ SEMANA 3": 0.03589999999999993,
+      "DFERENCIA CAFÉ SEMANA 4": -0.9
+    }
+  ],
+  "objetivos_rutas_cafe": [
+    {
+      "REAL CAFÉ SEMANA 1": 0.9701,
+      "REAL CAFÉ SEMANA 2": 0.9704,
+      "REAL CAFÉ SEMANA 3": 0.9708,
+      "REAL CAFÉ SEMANA 4": null,
+      "INICIO CAFE MES": 0.9586,
+      "OBJETIVO CAFÉ": 0.9,
+      "CRECIMIENTO SEMANA 1": 0.011499999999999955,
+      "CRECIMIENTO SEMANA 2": 0.000300000000000078,
+      "CRECIMIENTO SEMANA 3": 0.00039999999999995595,
+      "CRECIMIENTO SEMANA 4": -0.9708,
+      "DFERENCIA CAFÉ SEMANA 1": 0.07009999999999994,
+      "DFERENCIA CAFÉ SEMANA 2": 0.07040000000000002,
+      "DFERENCIA CAFÉ SEMANA 3": 0.07079999999999997,
+      "DFERENCIA CAFÉ SEMANA 4": -0.9,
+      "MEDIA": null
+    },
+    {
+      "REAL CAFÉ SEMANA 1": 0.9329,
+      "REAL CAFÉ SEMANA 2": 0.9392,
+      "REAL CAFÉ SEMANA 3": 0.9388,
+      "REAL CAFÉ SEMANA 4": null,
+      "INICIO CAFE MES": 0.9329,
+      "OBJETIVO CAFÉ": 0.9,
+      "CRECIMIENTO SEMANA 1": 0,
+      "CRECIMIENTO SEMANA 2": 0.006300000000000083,
+      "CRECIMIENTO SEMANA 3": -0.00040000000000006697,
+      "CRECIMIENTO SEMANA 4": -0.9388,
+      "DFERENCIA CAFÉ SEMANA 1": 0.03289999999999993,
+      "DFERENCIA CAFÉ SEMANA 2": 0.03920000000000001,
+      "DFERENCIA CAFÉ SEMANA 3": 0.038799999999999946,
+      "DFERENCIA CAFÉ SEMANA 4": -0.9,
+      "MEDIA": null
+    },
+    {
+      "REAL CAFÉ SEMANA 1": 0.8571,
+      "REAL CAFÉ SEMANA 2": 0.8529,
+      "REAL CAFÉ SEMANA 3": 0.8529,
+      "REAL CAFÉ SEMANA 4": null,
+      "INICIO CAFE MES": 0.8571,
+      "OBJETIVO CAFÉ": 0.9,
+      "CRECIMIENTO SEMANA 1": 0,
+      "CRECIMIENTO SEMANA 2": -0.0041999999999999815,
+      "CRECIMIENTO SEMANA 3": 0,
+      "CRECIMIENTO SEMANA 4": -0.8529,
+      "DFERENCIA CAFÉ SEMANA 1": -0.04290000000000005,
+      "DFERENCIA CAFÉ SEMANA 2": -0.04710000000000003,
+      "DFERENCIA CAFÉ SEMANA 3": -0.04710000000000003,
+      "DFERENCIA CAFÉ SEMANA 4": -0.9,
+      "MEDIA": null
+    },
+    {
+      "REAL CAFÉ SEMANA 1": 0.9293,
+      "REAL CAFÉ SEMANA 2": 0.9278,
+      "REAL CAFÉ SEMANA 3": 0.9271,
+      "REAL CAFÉ SEMANA 4": null,
+      "INICIO CAFE MES": 0.898,
+      "OBJETIVO CAFÉ": 0.9,
+      "CRECIMIENTO SEMANA 1": 0.031299999999999994,
+      "CRECIMIENTO SEMANA 2": -0.0015000000000000568,
+      "CRECIMIENTO SEMANA 3": -0.0006999999999999229,
+      "CRECIMIENTO SEMANA 4": -0.9271,
+      "DFERENCIA CAFÉ SEMANA 1": 0.029299999999999993,
+      "DFERENCIA CAFÉ SEMANA 2": 0.027799999999999936,
+      "DFERENCIA CAFÉ SEMANA 3": 0.027100000000000013,
+      "DFERENCIA CAFÉ SEMANA 4": -0.9,
+      "MEDIA": null
+    },
+    {
+      "REAL CAFÉ SEMANA 1": 0.8378,
+      "REAL CAFÉ SEMANA 2": 0.8759,
+      "REAL CAFÉ SEMANA 3": 0.8759,
+      "REAL CAFÉ SEMANA 4": null,
+      "INICIO CAFE MES": 0.8133,
+      "OBJETIVO CAFÉ": 0.9,
+      "CRECIMIENTO SEMANA 1": 0.024499999999999966,
+      "CRECIMIENTO SEMANA 2": 0.03810000000000002,
+      "CRECIMIENTO SEMANA 3": 0,
+      "CRECIMIENTO SEMANA 4": -0.8759,
+      "DFERENCIA CAFÉ SEMANA 1": -0.06220000000000003,
+      "DFERENCIA CAFÉ SEMANA 2": -0.02410000000000001,
+      "DFERENCIA CAFÉ SEMANA 3": -0.02410000000000001,
+      "DFERENCIA CAFÉ SEMANA 4": -0.9,
+      "MEDIA": null
+    },
+    {
+      "REAL CAFÉ SEMANA 1": 0.9286,
+      "REAL CAFÉ SEMANA 2": 0.95,
+      "REAL CAFÉ SEMANA 3": 0.9571,
+      "REAL CAFÉ SEMANA 4": null,
+      "INICIO CAFE MES": 0.9286,
+      "OBJETIVO CAFÉ": 0.9,
+      "CRECIMIENTO SEMANA 1": 0,
+      "CRECIMIENTO SEMANA 2": 0.021399999999999975,
+      "CRECIMIENTO SEMANA 3": 0.007099999999999995,
+      "CRECIMIENTO SEMANA 4": -0.9571,
+      "DFERENCIA CAFÉ SEMANA 1": 0.02859999999999996,
+      "DFERENCIA CAFÉ SEMANA 2": 0.04999999999999993,
+      "DFERENCIA CAFÉ SEMANA 3": 0.05709999999999993,
+      "DFERENCIA CAFÉ SEMANA 4": -0.9,
+      "MEDIA": null
+    },
+    {
+      "REAL CAFÉ SEMANA 1": 0.9196,
+      "REAL CAFÉ SEMANA 2": 0.9298,
+      "REAL CAFÉ SEMANA 3": 0.9304,
+      "REAL CAFÉ SEMANA 4": null,
+      "INICIO CAFE MES": 0.9107,
+      "OBJETIVO CAFÉ": 0.9,
+      "CRECIMIENTO SEMANA 1": 0.008900000000000019,
+      "CRECIMIENTO SEMANA 2": 0.010199999999999987,
+      "CRECIMIENTO SEMANA 3": 0.0006000000000000449,
+      "CRECIMIENTO SEMANA 4": -0.9304,
+      "DFERENCIA CAFÉ SEMANA 1": 0.01959999999999995,
+      "DFERENCIA CAFÉ SEMANA 2": 0.029799999999999938,
+      "DFERENCIA CAFÉ SEMANA 3": 0.030399999999999983,
+      "DFERENCIA CAFÉ SEMANA 4": -0.9,
+      "MEDIA": null
+    },
+    {
+      "REAL CAFÉ SEMANA 1": 0.9421,
+      "REAL CAFÉ SEMANA 2": 0.9512,
+      "REAL CAFÉ SEMANA 3": 0.9508,
+      "REAL CAFÉ SEMANA 4": null,
+      "INICIO CAFE MES": 0.9256,
+      "OBJETIVO CAFÉ": 0.9,
+      "CRECIMIENTO SEMANA 1": 0.01650000000000007,
+      "CRECIMIENTO SEMANA 2": 0.009099999999999997,
+      "CRECIMIENTO SEMANA 3": -0.00040000000000006697,
+      "CRECIMIENTO SEMANA 4": -0.9508,
+      "DFERENCIA CAFÉ SEMANA 1": 0.042100000000000026,
+      "DFERENCIA CAFÉ SEMANA 2": 0.05120000000000002,
+      "DFERENCIA CAFÉ SEMANA 3": 0.050799999999999956,
+      "DFERENCIA CAFÉ SEMANA 4": -0.9,
+      "MEDIA": null
+    },
+    {
+      "REAL CAFÉ SEMANA 1": 0.9406,
+      "REAL CAFÉ SEMANA 2": 0.95,
+      "REAL CAFÉ SEMANA 3": 0.95,
+      "REAL CAFÉ SEMANA 4": null,
+      "INICIO CAFE MES": 0.8725,
+      "OBJETIVO CAFÉ": 0.9,
+      "CRECIMIENTO SEMANA 1": 0.06809999999999994,
+      "CRECIMIENTO SEMANA 2": 0.009399999999999964,
+      "CRECIMIENTO SEMANA 3": 0,
+      "CRECIMIENTO SEMANA 4": -0.95,
+      "DFERENCIA CAFÉ SEMANA 1": 0.04059999999999997,
+      "DFERENCIA CAFÉ SEMANA 2": 0.04999999999999993,
+      "DFERENCIA CAFÉ SEMANA 3": 0.04999999999999993,
+      "DFERENCIA CAFÉ SEMANA 4": -0.9,
+      "MEDIA": null
+    },
+    {
+      "REAL CAFÉ SEMANA 1": 0.9802,
+      "REAL CAFÉ SEMANA 2": 1,
+      "REAL CAFÉ SEMANA 3": 1,
+      "REAL CAFÉ SEMANA 4": null,
+      "INICIO CAFE MES": 0.9703,
+      "OBJETIVO CAFÉ": 0.9,
+      "CRECIMIENTO SEMANA 1": 0.009899999999999909,
+      "CRECIMIENTO SEMANA 2": 0.01980000000000004,
+      "CRECIMIENTO SEMANA 3": 0,
+      "CRECIMIENTO SEMANA 4": -1,
+      "DFERENCIA CAFÉ SEMANA 1": 0.08019999999999994,
+      "DFERENCIA CAFÉ SEMANA 2": 0.09999999999999998,
+      "DFERENCIA CAFÉ SEMANA 3": 0.09999999999999998,
+      "DFERENCIA CAFÉ SEMANA 4": -0.9,
+      "MEDIA": null
+    },
+    {
+      "REAL CAFÉ SEMANA 1": 0.8488,
+      "REAL CAFÉ SEMANA 2": 0.8721,
+      "REAL CAFÉ SEMANA 3": 0.8621,
+      "REAL CAFÉ SEMANA 4": null,
+      "INICIO CAFE MES": 0.8471,
+      "OBJETIVO CAFÉ": 0.9,
+      "CRECIMIENTO SEMANA 1": 0.0017000000000000348,
+      "CRECIMIENTO SEMANA 2": 0.023299999999999987,
+      "CRECIMIENTO SEMANA 3": -0.010000000000000009,
+      "CRECIMIENTO SEMANA 4": -0.8621,
+      "DFERENCIA CAFÉ SEMANA 1": -0.05120000000000002,
+      "DFERENCIA CAFÉ SEMANA 2": -0.027900000000000036,
+      "DFERENCIA CAFÉ SEMANA 3": -0.037900000000000045,
+      "DFERENCIA CAFÉ SEMANA 4": -0.9,
+      "MEDIA": null
+    },
+    {
+      "REAL CAFÉ SEMANA 1": 0.9307,
+      "REAL CAFÉ SEMANA 2": 0.9307,
+      "REAL CAFÉ SEMANA 3": 0.94,
+      "REAL CAFÉ SEMANA 4": null,
+      "INICIO CAFE MES": 0.9126,
+      "OBJETIVO CAFÉ": 0.9,
+      "CRECIMIENTO SEMANA 1": 0.018100000000000005,
+      "CRECIMIENTO SEMANA 2": 0,
+      "CRECIMIENTO SEMANA 3": 0.009299999999999975,
+      "CRECIMIENTO SEMANA 4": -0.94,
+      "DFERENCIA CAFÉ SEMANA 1": 0.03069999999999995,
+      "DFERENCIA CAFÉ SEMANA 2": 0.03069999999999995,
+      "DFERENCIA CAFÉ SEMANA 3": 0.039999999999999925,
+      "DFERENCIA CAFÉ SEMANA 4": -0.9,
+      "MEDIA": null
+    }
+  ],
+  "andalucia": [
+    {
+      "Delegación": "GRANADA",
+      "Índice de Penetración  %": 0.9417
+    },
+    {
+      "Delegación": "CHICLANA",
+      "Índice de Penetración  %": 0.9359
+    },
+    {
+      "Delegación": "CORDOBA",
+      "Índice de Penetración  %": 0.9187
+    },
+    {
+      "Delegación": "JAEN",
+      "Índice de Penetración  %": 0.8971
+    },
+    {
+      "Delegación": "GUADIX",
+      "Índice de Penetración  %": 0.8578
+    },
+    {
+      "Delegación": "MÁLAGA",
+      "Índice de Penetración  %": 0.8431
+    },
+    {
+      "Delegación": "HUELVA",
+      "Índice de Penetración  %": 0.8315
+    },
+    {
+      "Delegación": "MARBELLA",
+      "Índice de Penetración  %": 0.8089
+    },
+    {
+      "Delegación": "MÁLAGA CENTRO",
+      "Índice de Penetración  %": 0.7781
+    },
+    {
+      "Delegación": "ALCALA",
+      "Índice de Penetración  %": 0.7723
+    },
+    {
+      "Delegación": "SEVILLA",
+      "Índice de Penetración  %": 0.7551
+    },
+    {
+      "Delegación": "CÁDIZ",
+      "Índice de Penetración  %": 0.7153
+    },
+    {
+      "Delegación": "TENERIFE SUR",
+      "Índice de Penetración  %": 0.7138
+    },
+    {
+      "Delegación": "TENERIFE",
+      "Índice de Penetración  %": 0.6763
+    },
+    {
+      "Delegación": "LAS PALMAS",
+      "Índice de Penetración  %": 0.6647
+    },
+    {
+      "Delegación": "CADIZ-ALGECIRAS",
+      "Índice de Penetración  %": 0.6591
+    }
+  ]
+}

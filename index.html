@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dashboard Operativo | Aquaservice</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <aside class="sidebar">
+    <div class="brand">
+      <div class="logo">AQ</div>
+      <div>
+        <h1>Dashboard Operativo</h1>
+        <p>Control jefes de equipo</p>
+      </div>
+    </div>
+    <nav>
+      <a href="#resumen">Resumen</a>
+      <a href="#incidencias">Incidencias</a>
+      <a href="#avisos">Avisos</a>
+      <a href="#higienes">Higienes</a>
+      <a href="#cafe">Café</a>
+      <a href="#detalle">Detalle</a>
+    </nav>
+    <div class="legend">
+      <span><i class="dot green"></i> Correcto</span>
+      <span><i class="dot amber"></i> Atención</span>
+      <span><i class="dot red"></i> Actuar</span>
+    </div>
+  </aside>
+
+  <main class="main">
+    <header class="topbar">
+      <div>
+        <h2>Panel de seguimiento diario</h2>
+        <p id="lastUpdate">Datos cargados desde archivo</p>
+      </div>
+      <div class="filters">
+        <label>Delegación</label>
+        <select id="delegationFilter">
+          <option value="all">Todas</option>
+          <option value="cadiz">Cádiz</option>
+          <option value="chiclana">Chiclana</option>
+          <option value="algeciras">Algeciras</option>
+        </select>
+      </div>
+    </header>
+
+    <section id="resumen" class="section">
+      <div class="section-title">
+        <h3>Resumen general</h3>
+        <p>Indicadores clave con semáforo automático.</p>
+      </div>
+      <div id="kpiCards" class="cards"></div>
+    </section>
+
+    <section id="incidencias" class="section grid-2">
+      <article class="panel">
+        <div class="panel-title">
+          <h3>Incidencias por ruta</h3>
+          <span class="pill">Objetivo: bajar % incidencia</span>
+        </div>
+        <canvas id="incidenciasChart"></canvas>
+      </article>
+      <article class="panel">
+        <div class="panel-title">
+          <h3>Rutas críticas</h3>
+          <span class="pill">Prioridad jefe equipo</span>
+        </div>
+        <div id="rutasCriticas"></div>
+      </article>
+    </section>
+
+    <section id="avisos" class="section grid-2">
+      <article class="panel">
+        <div class="panel-title">
+          <h3>Avisos y Nodel</h3>
+          <span class="pill">Control operativo</span>
+        </div>
+        <canvas id="avisosChart"></canvas>
+      </article>
+      <article class="panel">
+        <div class="panel-title">
+          <h3>Nodel diario</h3>
+          <span class="pill">Seguimiento por día</span>
+        </div>
+        <canvas id="nodelChart"></canvas>
+      </article>
+    </section>
+
+    <section id="higienes" class="section grid-2">
+      <article class="panel">
+        <div class="panel-title">
+          <h3>Higienes pendientes</h3>
+          <span class="pill">Coolers > 15 meses</span>
+        </div>
+        <canvas id="higienesChart"></canvas>
+      </article>
+      <article class="panel">
+        <div class="panel-title">
+          <h3>Descuadres</h3>
+          <span class="pill">Real vs teórico</span>
+        </div>
+        <canvas id="descuadresChart"></canvas>
+      </article>
+    </section>
+
+    <section id="cafe" class="section grid-2">
+      <article class="panel">
+        <div class="panel-title">
+          <h3>Objetivo café por delegación</h3>
+          <span class="pill">Meta 90%</span>
+        </div>
+        <canvas id="cafeChart"></canvas>
+      </article>
+      <article class="panel">
+        <div class="panel-title">
+          <h3>Ranking Andalucía</h3>
+          <span class="pill">Penetración café</span>
+        </div>
+        <div id="rankingAndalucia"></div>
+      </article>
+    </section>
+
+    <section id="detalle" class="section">
+      <div class="section-title">
+        <h3>Detalle para jefes de equipo</h3>
+        <p>Tabla filtrable por delegación y ruta.</p>
+      </div>
+      <div class="panel">
+        <input id="searchBox" class="search" placeholder="Buscar ruta, delegación o KPI..." />
+        <div class="table-wrap">
+          <table id="detailTable">
+            <thead>
+              <tr>
+                <th>Área</th>
+                <th>Delegación/Ruta</th>
+                <th>Indicador</th>
+                <th>Valor</th>
+                <th>Semáforo</th>
+                <th>Acción recomendada</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
